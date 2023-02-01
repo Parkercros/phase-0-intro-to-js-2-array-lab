@@ -31,3 +31,5 @@ function removeFirstCat () {
 function removeLastCat () {
   return cats.slice(0, cats.length - 1);
 }
+
+//nice
